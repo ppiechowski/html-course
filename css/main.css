@@ -1,0 +1,17 @@
+#footer-navigation a{
+    color: red;
+    text-decoration: none;
+}
+.links a, a:visited{
+    color: pink;
+    text-decoration: none;
+}
+.links a:hover{
+    color: greenyellow;
+    text-decoration: none;
+}
+h1 {
+    font-size: 2.5em;
+    font-weight: 800; 
+    color: red;
+}
